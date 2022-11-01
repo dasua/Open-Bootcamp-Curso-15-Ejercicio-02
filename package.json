@@ -1,0 +1,25 @@
+{
+  "name": "open-bootcamp-curso-15-ejercicio-02",
+  "version": "1.0.0",
+  "description": "Ejercicio del módulo 2 del curso Javascript básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasua/Open-Bootcamp-Curso-15-Ejercicio-02.git"
+  },
+  "keywords": [
+    "openbootcamp",
+    "javascript",
+    "ejercicio"
+  ],
+  "author": "dasua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasua/Open-Bootcamp-Curso-15-Ejercicio-02/issues"
+  },
+  "homepage": "https://github.com/dasua/Open-Bootcamp-Curso-15-Ejercicio-02#readme"
+}
